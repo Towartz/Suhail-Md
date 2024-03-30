@@ -1,4 +1,5 @@
 web: npm start 
+worker: node . --pairing
 
 
 
